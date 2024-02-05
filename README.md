@@ -1,3 +1,5 @@
+5Feb2024: I changed this line.
+
 # Assignment 1: Getting your environment set up
 
 This assignment is to ensure that you've got your environment set up correctly for this course. There's no requirement for creating any of your own code - the required code is all included in our instructions for how to set up git, github, Digital Ocean, and the connections between them.
