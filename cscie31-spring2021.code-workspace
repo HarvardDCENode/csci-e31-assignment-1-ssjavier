@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../codeExamples/cscie31-spring2021-staging"
+		},
+		{
+			"path": "../../notes"
+		},
+		{
+			"path": "../../test2"
+		},
+		{
+			"path": "../../codeExamples/cscie31-spring2021"
+		},
+		{
+			"path": "../../codeExamples"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
